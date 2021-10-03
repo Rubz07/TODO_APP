@@ -1,2 +1,2 @@
 # TODO_APP
-Create your TODO list 
+Create your TODO TaskList
